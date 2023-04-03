@@ -20,4 +20,3 @@
 
 ##
 
-![snake gif](https://github.com/Koguinhaa/Koguinhaa/blob/output/github-contribution-grid-snake.svg)
